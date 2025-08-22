@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[43032],{18322:e=>{e.exports=JSON.parse('{"authors":[{"name":"hulken","title":"Developer","page":{"permalink":"/authors/hulken"},"key":"hulken","count":701},{"name":"salad","title":"Developer","page":{"permalink":"/authors/salad"},"key":"salad","count":4}]}')}}]);
