@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>eeldev.com Blog</title>
-        <link>https://your-docusaurus-site.example.com</link>
+        <link>https://eeldev-docs.github.io/doc.eeldev</link>
         <description>eeldev.com Blog</description>
         <lastBuildDate>Sat, 16 Aug 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,11 +10,11 @@
         <language>en</language>
         <item>
             <title><![CDATA[EOSCORE 1.9.7.7]]></title>
-            <link>https://your-docusaurus-site.example.com/2025/08/16/eoscore-1-9-7-7</link>
-            <guid>https://your-docusaurus-site.example.com/2025/08/16/eoscore-1-9-7-7</guid>
+            <link>https://eeldev-docs.github.io/doc.eeldev/2025/08/16/eoscore-1-9-7-7</link>
+            <guid>https://eeldev-docs.github.io/doc.eeldev/2025/08/16/eoscore-1-9-7-7</guid>
             <pubDate>Sat, 16 Aug 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[GENERAL]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="general"><strong>GENERAL</strong><a href="https://your-docusaurus-site.example.com/2025/08/16/eoscore-1-9-7-7#general" class="hash-link" aria-label="Direct link to general" title="Direct link to general">​</a></h2>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="general"><strong>GENERAL</strong><a href="https://eeldev-docs.github.io/doc.eeldev/2025/08/16/eoscore-1-9-7-7#general" class="hash-link" aria-label="Direct link to general" title="Direct link to general">​</a></h2>
 <ul>
 <li>Updated EOS SDK to version 1.17.1.3</li>
 </ul>]]></content:encoded>
@@ -24,16 +24,16 @@
         </item>
         <item>
             <title><![CDATA[STEAMCORE PRO 1.0.6.6]]></title>
-            <link>https://your-docusaurus-site.example.com/2025/08/13/steamcore-pro-1-0-6-6</link>
-            <guid>https://your-docusaurus-site.example.com/2025/08/13/steamcore-pro-1-0-6-6</guid>
+            <link>https://eeldev-docs.github.io/doc.eeldev/2025/08/13/steamcore-pro-1-0-6-6</link>
+            <guid>https://eeldev-docs.github.io/doc.eeldev/2025/08/13/steamcore-pro-1-0-6-6</guid>
             <pubDate>Wed, 13 Aug 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[FRIENDS]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="friends"><strong>FRIENDS</strong><a href="https://your-docusaurus-site.example.com/2025/08/13/steamcore-pro-1-0-6-6#friends" class="hash-link" aria-label="Direct link to friends" title="Direct link to friends">​</a></h2>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="friends"><strong>FRIENDS</strong><a href="https://eeldev-docs.github.io/doc.eeldev/2025/08/13/steamcore-pro-1-0-6-6#friends" class="hash-link" aria-label="Direct link to friends" title="Direct link to friends">​</a></h2>
 <ul>
 <li>Itâ€™s now possible to listen for <em>Session Invite Received</em>. This allows the player to handle invites directly in-game via the in-game UI, for example.<br>
 <a href="https://steamcore-pro.eeldev.com/docfiles/multiplayer/friends/inviting_friends#listen-for-session-invites" target="_blank" rel="noopener noreferrer">See the documentation for an example</a></li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="dedicated-server"><strong>DEDICATED SERVER</strong><a href="https://your-docusaurus-site.example.com/2025/08/13/steamcore-pro-1-0-6-6#dedicated-server" class="hash-link" aria-label="Direct link to dedicated-server" title="Direct link to dedicated-server">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="dedicated-server"><strong>DEDICATED SERVER</strong><a href="https://eeldev-docs.github.io/doc.eeldev/2025/08/13/steamcore-pro-1-0-6-6#dedicated-server" class="hash-link" aria-label="Direct link to dedicated-server" title="Direct link to dedicated-server">​</a></h2>
 <ul>
 <li>A new node, <strong>ServerTravel</strong>, has been added. This allows the server/host to switch maps using <em>SeamlessTravel</em> or <em>ServerTravel</em> rather than executing the traditional console command. It also allows the developer to use soft references to maps.<br>
 <a href="https://steamcore-pro.eeldev.com/docfiles/multiplayer/dedicated-servers/switching_maps" target="_blank" rel="noopener noreferrer">See the documentation for an example</a></li>
@@ -44,16 +44,16 @@
         </item>
         <item>
             <title><![CDATA[EOSCORE 1.9.7.6]]></title>
-            <link>https://your-docusaurus-site.example.com/2025/08/12/eoscore-1-9-7-6</link>
-            <guid>https://your-docusaurus-site.example.com/2025/08/12/eoscore-1-9-7-6</guid>
+            <link>https://eeldev-docs.github.io/doc.eeldev/2025/08/12/eoscore-1-9-7-6</link>
+            <guid>https://eeldev-docs.github.io/doc.eeldev/2025/08/12/eoscore-1-9-7-6</guid>
             <pubDate>Tue, 12 Aug 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[SESSIONS]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sessions"><strong>SESSIONS</strong><a href="https://your-docusaurus-site.example.com/2025/08/12/eoscore-1-9-7-6#sessions" class="hash-link" aria-label="Direct link to sessions" title="Direct link to sessions">​</a></h2>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sessions"><strong>SESSIONS</strong><a href="https://eeldev-docs.github.io/doc.eeldev/2025/08/12/eoscore-1-9-7-6#sessions" class="hash-link" aria-label="Direct link to sessions" title="Direct link to sessions">​</a></h2>
 <ul>
 <li>Fixed an issue that prevented session re-join in some configurations</li>
 <li>Fixed a crash when closing down the editor in a standalone configuration</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="general"><strong>GENERAL</strong><a href="https://your-docusaurus-site.example.com/2025/08/12/eoscore-1-9-7-6#general" class="hash-link" aria-label="Direct link to general" title="Direct link to general">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="general"><strong>GENERAL</strong><a href="https://eeldev-docs.github.io/doc.eeldev/2025/08/12/eoscore-1-9-7-6#general" class="hash-link" aria-label="Direct link to general" title="Direct link to general">​</a></h2>
 <ul>
 <li>Fixed an issue that cused the plugin to be disabled when the EOSShared plugin is enabled in the engine</li>
 </ul>]]></content:encoded>
@@ -63,15 +63,15 @@
         </item>
         <item>
             <title><![CDATA[EOSCORE 1.9.7.5]]></title>
-            <link>https://your-docusaurus-site.example.com/2025/08/06/eoscore-1-9-7-5</link>
-            <guid>https://your-docusaurus-site.example.com/2025/08/06/eoscore-1-9-7-5</guid>
+            <link>https://eeldev-docs.github.io/doc.eeldev/2025/08/06/eoscore-1-9-7-5</link>
+            <guid>https://eeldev-docs.github.io/doc.eeldev/2025/08/06/eoscore-1-9-7-5</guid>
             <pubDate>Wed, 06 Aug 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[GENERAL]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="general">GENERAL<a href="https://your-docusaurus-site.example.com/2025/08/06/eoscore-1-9-7-5#general" class="hash-link" aria-label="Direct link to GENERAL" title="Direct link to GENERAL">​</a></h2>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="general">GENERAL<a href="https://eeldev-docs.github.io/doc.eeldev/2025/08/06/eoscore-1-9-7-5#general" class="hash-link" aria-label="Direct link to GENERAL" title="Direct link to GENERAL">​</a></h2>
 <ul>
 <li>Removed the error message popup in the editor when the EOSShared plugin is enabled, a new setting in the DefaultEngine.ini must now be set when the plugin is used in conjunction with the EOSShared plugin.</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="defaultengineini"><strong>DefaultEngine.ini</strong><a href="https://your-docusaurus-site.example.com/2025/08/06/eoscore-1-9-7-5#defaultengineini" class="hash-link" aria-label="Direct link to defaultengineini" title="Direct link to defaultengineini">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="defaultengineini"><strong>DefaultEngine.ini</strong><a href="https://eeldev-docs.github.io/doc.eeldev/2025/08/06/eoscore-1-9-7-5#defaultengineini" class="hash-link" aria-label="Direct link to defaultengineini" title="Direct link to defaultengineini">​</a></h2>
 <ul>
 <li>
 <p><a href="https://eoscore.eeldev.com/docfiles/getting_started/configuring_subsystem#2-basic-configuration" target="_blank" rel="noopener noreferrer">See the documentation here for an example</a></p>
@@ -85,11 +85,11 @@ bHasProjectBinary=true</p>
         </item>
         <item>
             <title><![CDATA[EOSCORE 1.9.7.4]]></title>
-            <link>https://your-docusaurus-site.example.com/2025/07/17/eoscore-1-9-7-4</link>
-            <guid>https://your-docusaurus-site.example.com/2025/07/17/eoscore-1-9-7-4</guid>
+            <link>https://eeldev-docs.github.io/doc.eeldev/2025/07/17/eoscore-1-9-7-4</link>
+            <guid>https://eeldev-docs.github.io/doc.eeldev/2025/07/17/eoscore-1-9-7-4</guid>
             <pubDate>Thu, 17 Jul 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[GENERAL]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="general"><strong>GENERAL</strong><a href="https://your-docusaurus-site.example.com/2025/07/17/eoscore-1-9-7-4#general" class="hash-link" aria-label="Direct link to general" title="Direct link to general">​</a></h2>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="general"><strong>GENERAL</strong><a href="https://eeldev-docs.github.io/doc.eeldev/2025/07/17/eoscore-1-9-7-4#general" class="hash-link" aria-label="Direct link to general" title="Direct link to general">​</a></h2>
 <ul>
 <li>Fixed a packaging issue on IOS devices using UE 5.6</li>
 </ul>]]></content:encoded>
@@ -99,11 +99,11 @@ bHasProjectBinary=true</p>
         </item>
         <item>
             <title><![CDATA[EOSCORE 1.9.7.3]]></title>
-            <link>https://your-docusaurus-site.example.com/2025/06/16/eoscore-1-9-7-3</link>
-            <guid>https://your-docusaurus-site.example.com/2025/06/16/eoscore-1-9-7-3</guid>
+            <link>https://eeldev-docs.github.io/doc.eeldev/2025/06/16/eoscore-1-9-7-3</link>
+            <guid>https://eeldev-docs.github.io/doc.eeldev/2025/06/16/eoscore-1-9-7-3</guid>
             <pubDate>Mon, 16 Jun 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[GENERAL]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="general"><strong>GENERAL</strong><a href="https://your-docusaurus-site.example.com/2025/06/16/eoscore-1-9-7-3#general" class="hash-link" aria-label="Direct link to general" title="Direct link to general">​</a></h2>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="general"><strong>GENERAL</strong><a href="https://eeldev-docs.github.io/doc.eeldev/2025/06/16/eoscore-1-9-7-3#general" class="hash-link" aria-label="Direct link to general" title="Direct link to general">​</a></h2>
 <ul>
 <li>Fixed packaging issues in Unreal Engine 5.6</li>
 </ul>]]></content:encoded>
@@ -113,11 +113,11 @@ bHasProjectBinary=true</p>
         </item>
         <item>
             <title><![CDATA[FOLIAGE PLUGIN 1.7.7]]></title>
-            <link>https://your-docusaurus-site.example.com/2025/06/15/foliage-plugin-1-7-7</link>
-            <guid>https://your-docusaurus-site.example.com/2025/06/15/foliage-plugin-1-7-7</guid>
+            <link>https://eeldev-docs.github.io/doc.eeldev/2025/06/15/foliage-plugin-1-7-7</link>
+            <guid>https://eeldev-docs.github.io/doc.eeldev/2025/06/15/foliage-plugin-1-7-7</guid>
             <pubDate>Sun, 15 Jun 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[REPLICATION]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="replication"><strong>REPLICATION</strong><a href="https://your-docusaurus-site.example.com/2025/06/15/foliage-plugin-1-7-7#replication" class="hash-link" aria-label="Direct link to replication" title="Direct link to replication">​</a></h2>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="replication"><strong>REPLICATION</strong><a href="https://eeldev-docs.github.io/doc.eeldev/2025/06/15/foliage-plugin-1-7-7#replication" class="hash-link" aria-label="Direct link to replication" title="Direct link to replication">​</a></h2>
 <ul>
 <li>Fixed foliage instances not being replicated correctly with the new replication system</li>
 </ul>]]></content:encoded>
@@ -127,31 +127,31 @@ bHasProjectBinary=true</p>
         </item>
         <item>
             <title><![CDATA[STEAMCORE PRO 1.0.6.5]]></title>
-            <link>https://your-docusaurus-site.example.com/2025/06/11/steamcore-pro-1-0-6-5</link>
-            <guid>https://your-docusaurus-site.example.com/2025/06/11/steamcore-pro-1-0-6-5</guid>
+            <link>https://eeldev-docs.github.io/doc.eeldev/2025/06/11/steamcore-pro-1-0-6-5</link>
+            <guid>https://eeldev-docs.github.io/doc.eeldev/2025/06/11/steamcore-pro-1-0-6-5</guid>
             <pubDate>Wed, 11 Jun 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[MATCHMAKING]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="matchmaking"><strong>MATCHMAKING</strong><a href="https://your-docusaurus-site.example.com/2025/06/11/steamcore-pro-1-0-6-5#matchmaking" class="hash-link" aria-label="Direct link to matchmaking" title="Direct link to matchmaking">​</a></h2>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="matchmaking"><strong>MATCHMAKING</strong><a href="https://eeldev-docs.github.io/doc.eeldev/2025/06/11/steamcore-pro-1-0-6-5#matchmaking" class="hash-link" aria-label="Direct link to matchmaking" title="Direct link to matchmaking">​</a></h2>
 <ul>
 <li>Fixed a crash when calling "<strong>Cancel Ping Queries</strong>" function without a running query</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sessions"><strong>SESSIONS</strong><a href="https://your-docusaurus-site.example.com/2025/06/11/steamcore-pro-1-0-6-5#sessions" class="hash-link" aria-label="Direct link to sessions" title="Direct link to sessions">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sessions"><strong>SESSIONS</strong><a href="https://eeldev-docs.github.io/doc.eeldev/2025/06/11/steamcore-pro-1-0-6-5#sessions" class="hash-link" aria-label="Direct link to sessions" title="Direct link to sessions">​</a></h2>
 <ul>
 <li>If no password is set when creating a session then it will no longer hash an empty password</li>
 <li><strong>Find SteamCore Pro Sessions</strong> will now return if a session is passworded</li>
 </ul>
-<p><img decoding="async" loading="lazy" src="https://your-docusaurus-site.example.com/assets/images/Screenshot-2025-06-11-184732-1024x440-1d6c6f9ba79a45be9f6c53644da690a9.png" width="1024" height="440" class="img_ev3q"></p>]]></content:encoded>
+<p><img decoding="async" loading="lazy" src="https://eeldev-docs.github.io/doc.eeldev/assets/images/Screenshot-2025-06-11-184732-1024x440-1d6c6f9ba79a45be9f6c53644da690a9.png" width="1024" height="440" class="img_ev3q"></p>]]></content:encoded>
             <category>all</category>
             <category>steamcore</category>
             <category>unreal engine</category>
         </item>
         <item>
             <title><![CDATA[GAMELIFT SERVER 2.1.3]]></title>
-            <link>https://your-docusaurus-site.example.com/2025/06/10/gamelift-server-2-1-3</link>
-            <guid>https://your-docusaurus-site.example.com/2025/06/10/gamelift-server-2-1-3</guid>
+            <link>https://eeldev-docs.github.io/doc.eeldev/2025/06/10/gamelift-server-2-1-3</link>
+            <guid>https://eeldev-docs.github.io/doc.eeldev/2025/06/10/gamelift-server-2-1-3</guid>
             <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[GENERAL]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="general"><strong>GENERAL</strong><a href="https://your-docusaurus-site.example.com/2025/06/10/gamelift-server-2-1-3#general" class="hash-link" aria-label="Direct link to general" title="Direct link to general">​</a></h2>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="general"><strong>GENERAL</strong><a href="https://eeldev-docs.github.io/doc.eeldev/2025/06/10/gamelift-server-2-1-3#general" class="hash-link" aria-label="Direct link to general" title="Direct link to general">​</a></h2>
 <ul>
 <li>Updated AWS Server SDK to version 5.3.0</li>
 </ul>]]></content:encoded>
@@ -162,11 +162,11 @@ bHasProjectBinary=true</p>
         </item>
         <item>
             <title><![CDATA[EOSCORE 1.9.7.2]]></title>
-            <link>https://your-docusaurus-site.example.com/2025/06/09/eoscore-1-9-7-2</link>
-            <guid>https://your-docusaurus-site.example.com/2025/06/09/eoscore-1-9-7-2</guid>
+            <link>https://eeldev-docs.github.io/doc.eeldev/2025/06/09/eoscore-1-9-7-2</link>
+            <guid>https://eeldev-docs.github.io/doc.eeldev/2025/06/09/eoscore-1-9-7-2</guid>
             <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[ECOM]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="ecom"><strong>ECOM</strong><a href="https://your-docusaurus-site.example.com/2025/06/09/eoscore-1-9-7-2#ecom" class="hash-link" aria-label="Direct link to ecom" title="Direct link to ecom">​</a></h2>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="ecom"><strong>ECOM</strong><a href="https://eeldev-docs.github.io/doc.eeldev/2025/06/09/eoscore-1-9-7-2#ecom" class="hash-link" aria-label="Direct link to ecom" title="Direct link to ecom">​</a></h2>
 <ul>
 <li>Fixed the OverrideCatalogNamespace string not being copied correctly in the EOSEcomQueryEntitlements function</li>
 </ul>]]></content:encoded>
@@ -176,11 +176,11 @@ bHasProjectBinary=true</p>
         </item>
         <item>
             <title><![CDATA[STEAMCORE 1.5.6.6]]></title>
-            <link>https://your-docusaurus-site.example.com/2025/06/05/steamcore-1-5-6-6-2</link>
-            <guid>https://your-docusaurus-site.example.com/2025/06/05/steamcore-1-5-6-6-2</guid>
+            <link>https://eeldev-docs.github.io/doc.eeldev/2025/06/05/steamcore-1-5-6-6-2</link>
+            <guid>https://eeldev-docs.github.io/doc.eeldev/2025/06/05/steamcore-1-5-6-6-2</guid>
             <pubDate>Thu, 05 Jun 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[GENERAL]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="general"><strong>GENERAL</strong><a href="https://your-docusaurus-site.example.com/2025/06/05/steamcore-1-5-6-6-2#general" class="hash-link" aria-label="Direct link to general" title="Direct link to general">​</a></h2>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="general"><strong>GENERAL</strong><a href="https://eeldev-docs.github.io/doc.eeldev/2025/06/05/steamcore-1-5-6-6-2#general" class="hash-link" aria-label="Direct link to general" title="Direct link to general">​</a></h2>
 <ul>
 <li>Added support for Unreal Engine 5.6</li>
 </ul>]]></content:encoded>
@@ -190,11 +190,11 @@ bHasProjectBinary=true</p>
         </item>
         <item>
             <title><![CDATA[EOSCORE 1.9.7.1]]></title>
-            <link>https://your-docusaurus-site.example.com/2025/06/03/eoscore-1-9-7-1</link>
-            <guid>https://your-docusaurus-site.example.com/2025/06/03/eoscore-1-9-7-1</guid>
+            <link>https://eeldev-docs.github.io/doc.eeldev/2025/06/03/eoscore-1-9-7-1</link>
+            <guid>https://eeldev-docs.github.io/doc.eeldev/2025/06/03/eoscore-1-9-7-1</guid>
             <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[GENERAL]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="general"><strong>GENERAL</strong><a href="https://your-docusaurus-site.example.com/2025/06/03/eoscore-1-9-7-1#general" class="hash-link" aria-label="Direct link to general" title="Direct link to general">​</a></h2>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="general"><strong>GENERAL</strong><a href="https://eeldev-docs.github.io/doc.eeldev/2025/06/03/eoscore-1-9-7-1#general" class="hash-link" aria-label="Direct link to general" title="Direct link to general">​</a></h2>
 <ul>
 <li>Added support for Unreal Engine 5.6</li>
 </ul>]]></content:encoded>
@@ -204,11 +204,11 @@ bHasProjectBinary=true</p>
         </item>
         <item>
             <title><![CDATA[STEAMCORE PRO 1.0.6.4]]></title>
-            <link>https://your-docusaurus-site.example.com/2025/06/03/steamcore-1-0-6-4</link>
-            <guid>https://your-docusaurus-site.example.com/2025/06/03/steamcore-1-0-6-4</guid>
+            <link>https://eeldev-docs.github.io/doc.eeldev/2025/06/03/steamcore-1-0-6-4</link>
+            <guid>https://eeldev-docs.github.io/doc.eeldev/2025/06/03/steamcore-1-0-6-4</guid>
             <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[GENERAL]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="general"><strong>GENERAL</strong><a href="https://your-docusaurus-site.example.com/2025/06/03/steamcore-1-0-6-4#general" class="hash-link" aria-label="Direct link to general" title="Direct link to general">​</a></h2>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="general"><strong>GENERAL</strong><a href="https://eeldev-docs.github.io/doc.eeldev/2025/06/03/steamcore-1-0-6-4#general" class="hash-link" aria-label="Direct link to general" title="Direct link to general">​</a></h2>
 <ul>
 <li>Added support for Unreal Engine 5.6</li>
 </ul>]]></content:encoded>
@@ -218,11 +218,11 @@ bHasProjectBinary=true</p>
         </item>
         <item>
             <title><![CDATA[STEAMCORE 1.5.6.6]]></title>
-            <link>https://your-docusaurus-site.example.com/2025/06/03/steamcore-1-5-6-6</link>
-            <guid>https://your-docusaurus-site.example.com/2025/06/03/steamcore-1-5-6-6</guid>
+            <link>https://eeldev-docs.github.io/doc.eeldev/2025/06/03/steamcore-1-5-6-6</link>
+            <guid>https://eeldev-docs.github.io/doc.eeldev/2025/06/03/steamcore-1-5-6-6</guid>
             <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[GENERAL]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="general"><strong>GENERAL</strong><a href="https://your-docusaurus-site.example.com/2025/06/03/steamcore-1-5-6-6#general" class="hash-link" aria-label="Direct link to general" title="Direct link to general">​</a></h2>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="general"><strong>GENERAL</strong><a href="https://eeldev-docs.github.io/doc.eeldev/2025/06/03/steamcore-1-5-6-6#general" class="hash-link" aria-label="Direct link to general" title="Direct link to general">​</a></h2>
 <ul>
 <li>Added support for Unreal Engine 5.6</li>
 </ul>]]></content:encoded>
@@ -232,15 +232,15 @@ bHasProjectBinary=true</p>
         </item>
         <item>
             <title><![CDATA[STEAMCORE PRO 1.0.6.3]]></title>
-            <link>https://your-docusaurus-site.example.com/2025/05/22/steamcore-pro-1-0-6-3</link>
-            <guid>https://your-docusaurus-site.example.com/2025/05/22/steamcore-pro-1-0-6-3</guid>
+            <link>https://eeldev-docs.github.io/doc.eeldev/2025/05/22/steamcore-pro-1-0-6-3</link>
+            <guid>https://eeldev-docs.github.io/doc.eeldev/2025/05/22/steamcore-pro-1-0-6-3</guid>
             <pubDate>Thu, 22 May 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[GENERAL]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="general"><strong>GENERAL</strong><a href="https://your-docusaurus-site.example.com/2025/05/22/steamcore-pro-1-0-6-3#general" class="hash-link" aria-label="Direct link to general" title="Direct link to general">​</a></h2>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="general"><strong>GENERAL</strong><a href="https://eeldev-docs.github.io/doc.eeldev/2025/05/22/steamcore-pro-1-0-6-3#general" class="hash-link" aria-label="Direct link to general" title="Direct link to general">​</a></h2>
 <ul>
 <li>Fixed compile issues when bEnableSteamCorePlugin is set to false</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="input"><strong>INPUT</strong><a href="https://your-docusaurus-site.example.com/2025/05/22/steamcore-pro-1-0-6-3#input" class="hash-link" aria-label="Direct link to input" title="Direct link to input">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="input"><strong>INPUT</strong><a href="https://eeldev-docs.github.io/doc.eeldev/2025/05/22/steamcore-pro-1-0-6-3#input" class="hash-link" aria-label="Direct link to input" title="Direct link to input">​</a></h2>
 <ul>
 <li>Added funtion SetInputActionManifestFilePath to blueprints</li>
 </ul>]]></content:encoded>
@@ -250,11 +250,11 @@ bHasProjectBinary=true</p>
         </item>
         <item>
             <title><![CDATA[STEAMCORE 1.0.6.2]]></title>
-            <link>https://your-docusaurus-site.example.com/2025/05/13/steamcore-1-0-6-2</link>
-            <guid>https://your-docusaurus-site.example.com/2025/05/13/steamcore-1-0-6-2</guid>
+            <link>https://eeldev-docs.github.io/doc.eeldev/2025/05/13/steamcore-1-0-6-2</link>
+            <guid>https://eeldev-docs.github.io/doc.eeldev/2025/05/13/steamcore-1-0-6-2</guid>
             <pubDate>Tue, 13 May 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[STEAM INPUT]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="steam-input"><strong>STEAM INPUT</strong><a href="https://your-docusaurus-site.example.com/2025/05/13/steamcore-1-0-6-2#steam-input" class="hash-link" aria-label="Direct link to steam-input" title="Direct link to steam-input">​</a></h2>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="steam-input"><strong>STEAM INPUT</strong><a href="https://eeldev-docs.github.io/doc.eeldev/2025/05/13/steamcore-1-0-6-2#steam-input" class="hash-link" aria-label="Direct link to steam-input" title="Direct link to steam-input">​</a></h2>
 <ul>
 <li>Added function <strong>GetGlyphPNGForActionOrigin</strong></li>
 <li>Added function <strong>GetGlyphSVGForActionOrigin</strong></li>
@@ -265,11 +265,11 @@ bHasProjectBinary=true</p>
         </item>
         <item>
             <title><![CDATA[STEAMCORE PRO 1.0.6.1]]></title>
-            <link>https://your-docusaurus-site.example.com/2025/05/04/steamcore-pro-1-0-6-1</link>
-            <guid>https://your-docusaurus-site.example.com/2025/05/04/steamcore-pro-1-0-6-1</guid>
+            <link>https://eeldev-docs.github.io/doc.eeldev/2025/05/04/steamcore-pro-1-0-6-1</link>
+            <guid>https://eeldev-docs.github.io/doc.eeldev/2025/05/04/steamcore-pro-1-0-6-1</guid>
             <pubDate>Sun, 04 May 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[VOICE]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="voice"><strong>VOICE</strong><a href="https://your-docusaurus-site.example.com/2025/05/04/steamcore-pro-1-0-6-1#voice" class="hash-link" aria-label="Direct link to voice" title="Direct link to voice">​</a></h2>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="voice"><strong>VOICE</strong><a href="https://eeldev-docs.github.io/doc.eeldev/2025/05/04/steamcore-pro-1-0-6-1#voice" class="hash-link" aria-label="Direct link to voice" title="Direct link to voice">​</a></h2>
 <ul>
 <li>Fixed a bug when using UE 5.5 that caused the selected input device to not be saved</li>
 </ul>]]></content:encoded>
@@ -279,34 +279,34 @@ bHasProjectBinary=true</p>
         </item>
         <item>
             <title><![CDATA[STEAMCORE PRO 1.0.6.0]]></title>
-            <link>https://your-docusaurus-site.example.com/2025/04/25/steamcore-pro-1-0-6-0</link>
-            <guid>https://your-docusaurus-site.example.com/2025/04/25/steamcore-pro-1-0-6-0</guid>
+            <link>https://eeldev-docs.github.io/doc.eeldev/2025/04/25/steamcore-pro-1-0-6-0</link>
+            <guid>https://eeldev-docs.github.io/doc.eeldev/2025/04/25/steamcore-pro-1-0-6-0</guid>
             <pubDate>Fri, 25 Apr 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[SESSIONS]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sessions"><strong>SESSIONS</strong><a href="https://your-docusaurus-site.example.com/2025/04/25/steamcore-pro-1-0-6-0#sessions" class="hash-link" aria-label="Direct link to sessions" title="Direct link to sessions">​</a></h2>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sessions"><strong>SESSIONS</strong><a href="https://eeldev-docs.github.io/doc.eeldev/2025/04/25/steamcore-pro-1-0-6-0#sessions" class="hash-link" aria-label="Direct link to sessions" title="Direct link to sessions">​</a></h2>
 <ul>
 <li>It's now possible to set a <strong>Session Password</strong> when creating a session</li>
 <li>Added a new node "Join SteamCore PRO Session" that allows the user to enter a <strong>session password</strong></li>
 <li>Added a "Join Fail Reason" string that returns incorrect password if the password is incorrect for the selected session</li>
 <li><a href="https://steamcore-pro.eeldev.com/docfiles/multiplayer/session_password" target="_blank" rel="noopener noreferrer">Created a documentation for this</a></li>
 </ul>
-<p><img decoding="async" loading="lazy" src="https://your-docusaurus-site.example.com/assets/images/Screenshot-2025-04-25-085229-db891bbdcf7b025626cfa3161e7ef3f6.png" width="1322" height="1048" class="img_ev3q"></p>]]></content:encoded>
+<p><img decoding="async" loading="lazy" src="https://eeldev-docs.github.io/doc.eeldev/assets/images/Screenshot-2025-04-25-085229-db891bbdcf7b025626cfa3161e7ef3f6.png" width="1322" height="1048" class="img_ev3q"></p>]]></content:encoded>
             <category>all</category>
             <category>steamcore</category>
             <category>unreal engine</category>
         </item>
         <item>
             <title><![CDATA[EOSCORE 1.9.6.9]]></title>
-            <link>https://your-docusaurus-site.example.com/2025/04/10/eoscore-1-9-6-9</link>
-            <guid>https://your-docusaurus-site.example.com/2025/04/10/eoscore-1-9-6-9</guid>
+            <link>https://eeldev-docs.github.io/doc.eeldev/2025/04/10/eoscore-1-9-6-9</link>
+            <guid>https://eeldev-docs.github.io/doc.eeldev/2025/04/10/eoscore-1-9-6-9</guid>
             <pubDate>Thu, 10 Apr 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[AUTH / connect]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="auth--connect"><strong>AUTH</strong> / <strong>connect</strong><a href="https://your-docusaurus-site.example.com/2025/04/10/eoscore-1-9-6-9#auth--connect" class="hash-link" aria-label="Direct link to auth--connect" title="Direct link to auth--connect">​</a></h2>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="auth--connect"><strong>AUTH</strong> / <strong>connect</strong><a href="https://eeldev-docs.github.io/doc.eeldev/2025/04/10/eoscore-1-9-6-9#auth--connect" class="hash-link" aria-label="Direct link to auth--connect" title="Direct link to auth--connect">​</a></h2>
 <ul>
 <li>Added support for authenticating via <strong>Steam Session Tickets</strong></li>
 <li><a href="https://eoscore.eeldev.com/docfiles/getting_started/auth/auth_steam_session" target="_blank" rel="noopener noreferrer">Created an example for this here</a></li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="android"><strong>ANDROID</strong><a href="https://your-docusaurus-site.example.com/2025/04/10/eoscore-1-9-6-9#android" class="hash-link" aria-label="Direct link to android" title="Direct link to android">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="android"><strong>ANDROID</strong><a href="https://eeldev-docs.github.io/doc.eeldev/2025/04/10/eoscore-1-9-6-9#android" class="hash-link" aria-label="Direct link to android" title="Direct link to android">​</a></h2>
 <ul>
 <li>Fixed x86_64 packaging issues for the android platform</li>
 </ul>]]></content:encoded>
@@ -316,11 +316,11 @@ bHasProjectBinary=true</p>
         </item>
         <item>
             <title><![CDATA[COMMON LOADING SCREEN 1.1.3]]></title>
-            <link>https://your-docusaurus-site.example.com/2025/04/03/common-loading-screen-1-1-3</link>
-            <guid>https://your-docusaurus-site.example.com/2025/04/03/common-loading-screen-1-1-3</guid>
+            <link>https://eeldev-docs.github.io/doc.eeldev/2025/04/03/common-loading-screen-1-1-3</link>
+            <guid>https://eeldev-docs.github.io/doc.eeldev/2025/04/03/common-loading-screen-1-1-3</guid>
             <pubDate>Thu, 03 Apr 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[GENERAL]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="general"><strong>GENERAL</strong><a href="https://your-docusaurus-site.example.com/2025/04/03/common-loading-screen-1-1-3#general" class="hash-link" aria-label="Direct link to general" title="Direct link to general">​</a></h2>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="general"><strong>GENERAL</strong><a href="https://eeldev-docs.github.io/doc.eeldev/2025/04/03/common-loading-screen-1-1-3#general" class="hash-link" aria-label="Direct link to general" title="Direct link to general">​</a></h2>
 <ul>
 <li>Fixed an issue related to "<strong>Show Loading Screen Additional Secs</strong>" that was causing Blocked Maps to be ignored<br>
 <em>Thanks to biggumzzz for reporting this issue</em></li>
